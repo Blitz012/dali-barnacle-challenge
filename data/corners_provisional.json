@@ -1,0 +1,46 @@
+{
+  "status": "PROVISIONAL. Read off by eye from 300x300 px zooms of the four inner frame corners (50 px gridlines), by Claude. Not marked with src.region.mark_corners and not verified by the user. Used only to limit the unseen-image review queue to the frame interior; no ground truth exists for this image.",
+  "order": "top-left, top-right, bottom-right, bottom-left; [x, y] original pixels, inner wire edge",
+  "corners": {
+    "unseen_img1.png": [
+      [
+        1003,
+        215
+      ],
+      [
+        2560,
+        180
+      ],
+      [
+        2555,
+        1735
+      ],
+      [
+        1030,
+        1750
+      ]
+    ],
+    "img2.png": [
+      [
+        953,
+        215
+      ],
+      [
+        2592,
+        213
+      ],
+      [
+        2552,
+        1866
+      ],
+      [
+        965,
+        1866
+      ]
+    ]
+  },
+  "notes": {
+    "img2.png": "POST-HOC SENSITIVITY ONLY. The verified data/corners.json rectangle for img2 sits on the wire centreline (up to ~38 px of the right bar and ~8-20 px of the left bar fall inside it). Noticed because the top-scoring img2 false positives were on the teal wire. Inner-edge corners re-read by eye from 200x200 px zooms with 20 px gridlines. Used only for a labelled secondary metric row; the main img2 result uses data/corners.json, and no detector setting changed."
+  },
+  "superseded": "HISTORICAL as of 2026-10-18. Coordinates kept unchanged as the record behind the original unseen_img1 queue (2,197 detections) and the earlier img2 sensitivity row. Both quadrilaterals touch the wire at rounded junctions and include the clips/tabs. The operational unseen_img1 ROI and the post-hoc img2 correction are now in data/roi_corrected.json."
+}

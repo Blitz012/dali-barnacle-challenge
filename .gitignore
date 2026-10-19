@@ -1,0 +1,15 @@
+# environment and local tool settings
+.venv/
+.claude/
+
+# caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# data/ and figures/ are tracked: the notebook needs them
+
+# private Claude/Codex coordination notes
+COLLABORATION.md
+COLLABORATION_STATUS.md

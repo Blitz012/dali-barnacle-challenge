@@ -1,0 +1,94 @@
+{
+  "frozen_on": "img1.png only (development), 2026-10-18, before any img2 evaluation",
+  "match_radius_px": 7.420755373261929,
+  "match_radius_rule": "0.5 x median equivalent plate diameter of mask1 GT inside the img1 ROI, original pixels",
+  "min_distance": 12,
+  "threshold": 0.3,
+  "selection_rule": "max F1 on img1 over min_distance {4..18} x threshold {0.20..0.70}; ties -> higher threshold. Grid extended once (to min_distance 14-18, threshold 0.20-0.25) because the first optimum was on the grid edge",
+  "low_confidence_below": 0.5,
+  "low_confidence_rule": "img1: detections scoring >= 0.50 (top quintile) matched GT at 0.47 vs 0.33-0.41 in lower score bands; below 0.50 the score carries little signal",
+  "template_ids": [
+    6,
+    120,
+    497,
+    601,
+    663,
+    802,
+    903,
+    918,
+    1282
+  ],
+  "angles": [
+    0,
+    45,
+    90,
+    135,
+    180,
+    225,
+    270,
+    315
+  ],
+  "scales": [
+    1.0
+  ],
+  "tile_grid": 5,
+  "tile_min_roi_frac": 0.25,
+  "tile_min_detections": 5,
+  "template_source": "img1.png",
+  "template_crops": [
+    {
+      "id": 6,
+      "row": 482.3758865248227,
+      "col": 2338.8156028368794,
+      "side": 33
+    },
+    {
+      "id": 120,
+      "row": 579.0857142857143,
+      "col": 2003.0142857142857,
+      "side": 43
+    },
+    {
+      "id": 497,
+      "row": 841.620320855615,
+      "col": 2347.7219251336896,
+      "side": 41
+    },
+    {
+      "id": 601,
+      "row": 941.5909090909091,
+      "col": 1476.780303030303,
+      "side": 37
+    },
+    {
+      "id": 663,
+      "row": 1009.7889908256881,
+      "col": 1279.4633027522937,
+      "side": 49
+    },
+    {
+      "id": 802,
+      "row": 1147.3163716814158,
+      "col": 1929.404867256637,
+      "side": 49
+    },
+    {
+      "id": 903,
+      "row": 1233.7133956386292,
+      "col": 1993.9221183800623,
+      "side": 43
+    },
+    {
+      "id": 918,
+      "row": 1241.605504587156,
+      "col": 2430.7247706422017,
+      "side": 33
+    },
+    {
+      "id": 1282,
+      "row": 1543.0818858560795,
+      "col": 2269.1166253101737,
+      "side": 49
+    }
+  ]
+}

@@ -1,0 +1,1310 @@
+{
+  "source": "img1.png / mask1.png (development data)",
+  "criteria": [
+    "exactly one annotated plate centroid inside the estimated shell circle",
+    "a visible whole shell, contained in the crop with a margin",
+    "limited neighbouring material (other plates) inside the crop"
+  ],
+  "candidates": [
+    {
+      "id": 6,
+      "group": 25,
+      "row": 482.3758865248227,
+      "col": 2338.8156028368794,
+      "plate_d": 13.398760233979036,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.012
+    },
+    {
+      "id": 13,
+      "group": 25,
+      "row": 492.0267379679144,
+      "col": 2244.957219251337,
+      "plate_d": 15.430353037616328,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.064
+    },
+    {
+      "id": 32,
+      "group": 25,
+      "row": 509.6102941176471,
+      "col": 1619.639705882353,
+      "plate_d": 13.159049284959082,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.001
+    },
+    {
+      "id": 49,
+      "group": 25,
+      "row": 522.9069767441861,
+      "col": 1767.4651162790697,
+      "plate_d": 7.399277020331919,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.098
+    },
+    {
+      "id": 55,
+      "group": 25,
+      "row": 528.7954545454545,
+      "col": 1715.3295454545455,
+      "plate_d": 10.585134856802455,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.174
+    },
+    {
+      "id": 90,
+      "group": 25,
+      "row": 555.616,
+      "col": 2440.44,
+      "plate_d": 12.6156626101008,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.094
+    },
+    {
+      "id": 99,
+      "group": 25,
+      "row": 560.8666666666667,
+      "col": 1779.6222222222223,
+      "plate_d": 10.704744696916627,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.062
+    },
+    {
+      "id": 107,
+      "group": 25,
+      "row": 565.4742268041238,
+      "col": 2369.237113402062,
+      "plate_d": 11.11324596323283,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.153
+    },
+    {
+      "id": 230,
+      "group": 25,
+      "row": 655.4285714285714,
+      "col": 2250.5449735449733,
+      "plate_d": 15.512648837479231,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.194
+    },
+    {
+      "id": 241,
+      "group": 25,
+      "row": 662.2470588235294,
+      "col": 2165.9058823529413,
+      "plate_d": 10.403141895720198,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.153
+    },
+    {
+      "id": 379,
+      "group": 25,
+      "row": 764.0310559006211,
+      "col": 1342.167701863354,
+      "plate_d": 14.317526556719258,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.004
+    },
+    {
+      "id": 411,
+      "group": 25,
+      "row": 782.1401869158879,
+      "col": 1181.9345794392523,
+      "plate_d": 11.67204486311899,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.05
+    },
+    {
+      "id": 448,
+      "group": 25,
+      "row": 805.1603773584906,
+      "col": 2340.5188679245284,
+      "plate_d": 11.617374563210365,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.038
+    },
+    {
+      "id": 465,
+      "group": 25,
+      "row": 810.9,
+      "col": 1478.2,
+      "plate_d": 3.5682482323055424,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.002
+    },
+    {
+      "id": 601,
+      "group": 25,
+      "row": 941.5909090909091,
+      "col": 1476.780303030303,
+      "plate_d": 12.964089628857149,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.001
+    },
+    {
+      "id": 694,
+      "group": 25,
+      "row": 1037.4144144144145,
+      "col": 1240.6486486486488,
+      "plate_d": 11.888212206450685,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.005
+    },
+    {
+      "id": 753,
+      "group": 25,
+      "row": 1093.3093922651933,
+      "col": 2189.9447513812156,
+      "plate_d": 15.180789096653193,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.072
+    },
+    {
+      "id": 768,
+      "group": 25,
+      "row": 1103.0458015267175,
+      "col": 1992.5877862595419,
+      "plate_d": 12.914889870235298,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.017
+    },
+    {
+      "id": 782,
+      "group": 25,
+      "row": 1117.8840579710145,
+      "col": 1585.0869565217392,
+      "plate_d": 9.373021315815206,
+      "shell_d": 22.0,
+      "side": 33,
+      "neighbour_frac": 0.017
+    },
+    {
+      "id": 841,
+      "group": 25,
+      "row": 1173.2372881355932,
+      "col": 2235.3728813559323,
+      "plate_d": 8.667244841319219,
+      "shell_d": 22.0,
+      "side": 33,
+      "neighbour_frac": 0.194
+    },
+    {
+      "id": 869,
+      "group": 25,
+      "row": 1202.6333333333334,
+      "col": 1525.904761904762,
+      "plate_d": 16.351767622932517,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.004
+    },
+    {
+      "id": 876,
+      "group": 25,
+      "row": 1202.2087912087911,
+      "col": 1145.6043956043957,
+      "plate_d": 10.764051215546116,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.001
+    },
+    {
+      "id": 878,
+      "group": 25,
+      "row": 1209.903743315508,
+      "col": 1560.4438502673797,
+      "plate_d": 15.430353037616328,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.006
+    },
+    {
+      "id": 918,
+      "group": 25,
+      "row": 1241.605504587156,
+      "col": 2430.7247706422017,
+      "plate_d": 11.780624362746345,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.012
+    },
+    {
+      "id": 934,
+      "group": 25,
+      "row": 1252.4268292682927,
+      "col": 1563.2682926829268,
+      "plate_d": 10.217907939900583,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.053
+    },
+    {
+      "id": 955,
+      "group": 25,
+      "row": 1271.7826086956522,
+      "col": 1349.9130434782608,
+      "plate_d": 7.653039857325812,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.038
+    },
+    {
+      "id": 963,
+      "group": 25,
+      "row": 1280.3979591836735,
+      "col": 1542.8469387755101,
+      "plate_d": 11.170383851240114,
+      "shell_d": 22.0,
+      "side": 33,
+      "neighbour_frac": 0.043
+    },
+    {
+      "id": 1035,
+      "group": 25,
+      "row": 1340.42,
+      "col": 1530.04,
+      "plate_d": 13.81976597885342,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.02
+    },
+    {
+      "id": 1104,
+      "group": 25,
+      "row": 1390.3076923076924,
+      "col": 2083.3846153846152,
+      "plate_d": 7.046725639945928,
+      "shell_d": 22.0,
+      "side": 33,
+      "neighbour_frac": 0.097
+    },
+    {
+      "id": 1139,
+      "group": 25,
+      "row": 1424.0933333333332,
+      "col": 1566.9866666666667,
+      "plate_d": 9.772050238058398,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.082
+    },
+    {
+      "id": 1218,
+      "group": 25,
+      "row": 1490.27868852459,
+      "col": 1860.1639344262296,
+      "plate_d": 8.812923024107548,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.125
+    },
+    {
+      "id": 1232,
+      "group": 25,
+      "row": 1501.0,
+      "col": 1913.71875,
+      "plate_d": 6.383076486422923,
+      "shell_d": 22.0,
+      "side": 33,
+      "neighbour_frac": 0.107
+    },
+    {
+      "id": 1253,
+      "group": 25,
+      "row": 1512.060606060606,
+      "col": 2295.5151515151515,
+      "plate_d": 6.4820448144285745,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.073
+    },
+    {
+      "id": 1268,
+      "group": 25,
+      "row": 1527.9711538461538,
+      "col": 1824.0096153846155,
+      "plate_d": 11.507254783503184,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.033
+    },
+    {
+      "id": 1372,
+      "group": 25,
+      "row": 1620.3352601156068,
+      "col": 1615.3121387283236,
+      "plate_d": 14.841510746523857,
+      "shell_d": 28.0,
+      "side": 37,
+      "neighbour_frac": 0.074
+    },
+    {
+      "id": 1412,
+      "group": 25,
+      "row": 1660.3870967741937,
+      "col": 1231.6451612903227,
+      "plate_d": 10.881694613449236,
+      "shell_d": 26.0,
+      "side": 35,
+      "neighbour_frac": 0.05
+    },
+    {
+      "id": 1419,
+      "group": 25,
+      "row": 1668.175,
+      "col": 1294.075,
+      "plate_d": 10.092530088080641,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.129
+    },
+    {
+      "id": 1474,
+      "group": 25,
+      "row": 1707.1162790697674,
+      "col": 2274.6046511627906,
+      "plate_d": 7.399277020331919,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.03
+    },
+    {
+      "id": 1506,
+      "group": 25,
+      "row": 1736.2131147540983,
+      "col": 2233.598360655738,
+      "plate_d": 12.463355264843006,
+      "shell_d": 24.0,
+      "side": 33,
+      "neighbour_frac": 0.096
+    },
+    {
+      "id": 1626,
+      "group": 25,
+      "row": 1836.392857142857,
+      "col": 1351.0892857142858,
+      "plate_d": 8.444016491289505,
+      "shell_d": 22.0,
+      "side": 33,
+      "neighbour_frac": 0.119
+    },
+    {
+      "id": 85,
+      "group": 33,
+      "row": 552.8521739130434,
+      "col": 2349.2347826086957,
+      "plate_d": 20.958712816717327,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.143
+    },
+    {
+      "id": 120,
+      "group": 33,
+      "row": 579.0857142857143,
+      "col": 2003.0142857142857,
+      "plate_d": 16.351767622932517,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.021
+    },
+    {
+      "id": 151,
+      "group": 33,
+      "row": 600.8684210526316,
+      "col": 1468.482456140351,
+      "plate_d": 17.03815178355966,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.002
+    },
+    {
+      "id": 160,
+      "group": 33,
+      "row": 607.1063829787234,
+      "col": 2192.808510638298,
+      "plate_d": 15.471555655790098,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.085
+    },
+    {
+      "id": 274,
+      "group": 33,
+      "row": 688.3617021276596,
+      "col": 1833.5702127659574,
+      "plate_d": 17.297725082009,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.071
+    },
+    {
+      "id": 357,
+      "group": 33,
+      "row": 749.0657894736842,
+      "col": 2149.4868421052633,
+      "plate_d": 17.03815178355966,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.087
+    },
+    {
+      "id": 373,
+      "group": 33,
+      "row": 757.1547619047619,
+      "col": 1424.952380952381,
+      "plate_d": 10.341765891652821,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.001
+    },
+    {
+      "id": 374,
+      "group": 33,
+      "row": 757.8385269121814,
+      "col": 2104.3937677053823,
+      "plate_d": 21.200319792199185,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.011
+    },
+    {
+      "id": 382,
+      "group": 33,
+      "row": 769.3238636363636,
+      "col": 1142.9204545454545,
+      "plate_d": 14.96964127403822,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.02
+    },
+    {
+      "id": 401,
+      "group": 33,
+      "row": 776.7407407407408,
+      "col": 1987.7111111111112,
+      "plate_d": 18.5411616971131,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.061
+    },
+    {
+      "id": 489,
+      "group": 33,
+      "row": 834.4414893617021,
+      "col": 1766.659574468085,
+      "plate_d": 15.471555655790098,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.063
+    },
+    {
+      "id": 497,
+      "group": 33,
+      "row": 841.620320855615,
+      "col": 2347.7219251336896,
+      "plate_d": 15.430353037616328,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.002
+    },
+    {
+      "id": 505,
+      "group": 33,
+      "row": 846.1971830985915,
+      "col": 1364.112676056338,
+      "plate_d": 9.507891862878783,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.025
+    },
+    {
+      "id": 513,
+      "group": 33,
+      "row": 856.1897106109325,
+      "col": 2118.6463022508037,
+      "plate_d": 19.899183360445615,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.007
+    },
+    {
+      "id": 529,
+      "group": 33,
+      "row": 873.3689839572193,
+      "col": 1348.855614973262,
+      "plate_d": 15.430353037616328,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.001
+    },
+    {
+      "id": 536,
+      "group": 33,
+      "row": 881.4405286343613,
+      "col": 2238.5242290748897,
+      "plate_d": 17.000746355818674,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.042
+    },
+    {
+      "id": 594,
+      "group": 33,
+      "row": 935.1180555555555,
+      "col": 1948.7152777777778,
+      "plate_d": 13.540550005146152,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.022
+    },
+    {
+      "id": 609,
+      "group": 33,
+      "row": 957.9614457831325,
+      "col": 1347.0048192771085,
+      "plate_d": 22.98683125324351,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.001
+    },
+    {
+      "id": 636,
+      "group": 33,
+      "row": 985.3607594936709,
+      "col": 1511.8037974683543,
+      "plate_d": 14.183506197980657,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.011
+    },
+    {
+      "id": 740,
+      "group": 33,
+      "row": 1075.975806451613,
+      "col": 1391.8225806451612,
+      "plate_d": 12.565098628628435,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.066
+    },
+    {
+      "id": 792,
+      "group": 33,
+      "row": 1139.4273504273503,
+      "col": 1162.337606837607,
+      "plate_d": 17.26088217525478,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.072
+    },
+    {
+      "id": 903,
+      "group": 33,
+      "row": 1233.7133956386292,
+      "col": 1993.9221183800623,
+      "plate_d": 20.216574731145414,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.007
+    },
+    {
+      "id": 952,
+      "group": 33,
+      "row": 1279.0666666666666,
+      "col": 2267.170833333333,
+      "plate_d": 17.480774889473267,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.08
+    },
+    {
+      "id": 966,
+      "group": 33,
+      "row": 1281.5058823529412,
+      "col": 1524.0823529411764,
+      "plate_d": 10.403141895720198,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.19
+    },
+    {
+      "id": 1001,
+      "group": 33,
+      "row": 1310.8735632183907,
+      "col": 1477.057471264368,
+      "plate_d": 10.524820207108489,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.049
+    },
+    {
+      "id": 1061,
+      "group": 33,
+      "row": 1363.1881720430108,
+      "col": 2273.9247311827958,
+      "plate_d": 15.389040103942165,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.055
+    },
+    {
+      "id": 1129,
+      "group": 33,
+      "row": 1414.3796791443851,
+      "col": 2489.2780748663104,
+      "plate_d": 15.430353037616328,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.105
+    },
+    {
+      "id": 1150,
+      "group": 33,
+      "row": 1439.1105263157895,
+      "col": 1521.8105263157895,
+      "plate_d": 15.553633450087505,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.084
+    },
+    {
+      "id": 1162,
+      "group": 33,
+      "row": 1443.1160714285713,
+      "col": 1888.1517857142858,
+      "plate_d": 11.941642642883693,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.051
+    },
+    {
+      "id": 1186,
+      "group": 33,
+      "row": 1467.7128205128206,
+      "col": 2226.0,
+      "plate_d": 15.756957549709801,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.046
+    },
+    {
+      "id": 1208,
+      "group": 33,
+      "row": 1484.388888888889,
+      "col": 1677.8055555555557,
+      "plate_d": 6.770275002573076,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.089
+    },
+    {
+      "id": 1280,
+      "group": 33,
+      "row": 1539.0188679245282,
+      "col": 1357.8427672955975,
+      "plate_d": 14.228319915326999,
+      "shell_d": 32.0,
+      "side": 41,
+      "neighbour_frac": 0.022
+    },
+    {
+      "id": 1288,
+      "group": 33,
+      "row": 1545.2911877394636,
+      "col": 1386.9731800766283,
+      "plate_d": 18.229523339239496,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.015
+    },
+    {
+      "id": 1291,
+      "group": 33,
+      "row": 1543.8741721854306,
+      "col": 2201.476821192053,
+      "plate_d": 13.86575534383214,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.081
+    },
+    {
+      "id": 1320,
+      "group": 33,
+      "row": 1571.9087947882736,
+      "col": 1301.501628664495,
+      "plate_d": 19.77080019204319,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.013
+    },
+    {
+      "id": 1327,
+      "group": 33,
+      "row": 1573.2095238095237,
+      "col": 2301.1428571428573,
+      "plate_d": 11.562445770562215,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.101
+    },
+    {
+      "id": 1389,
+      "group": 33,
+      "row": 1636.6271186440679,
+      "col": 2364.0564971751414,
+      "plate_d": 15.012108426804138,
+      "shell_d": 34.0,
+      "side": 43,
+      "neighbour_frac": 0.092
+    },
+    {
+      "id": 1401,
+      "group": 33,
+      "row": 1655.8202614379086,
+      "col": 2207.575163398693,
+      "plate_d": 19.738573927438622,
+      "shell_d": 36.0,
+      "side": 45,
+      "neighbour_frac": 0.017
+    },
+    {
+      "id": 1410,
+      "group": 33,
+      "row": 1660.3954545454546,
+      "col": 2153.327272727273,
+      "plate_d": 16.73656774376801,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.09
+    },
+    {
+      "id": 1477,
+      "group": 33,
+      "row": 1713.8809523809523,
+      "col": 2512.684523809524,
+      "plate_d": 14.625465582862905,
+      "shell_d": 30.0,
+      "side": 41,
+      "neighbour_frac": 0.061
+    },
+    {
+      "id": 35,
+      "group": 41,
+      "row": 521.2595744680851,
+      "col": 1379.6468085106383,
+      "plate_d": 17.297725082009,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.032
+    },
+    {
+      "id": 135,
+      "group": 41,
+      "row": 586.8032786885246,
+      "col": 1501.0655737704917,
+      "plate_d": 12.463355264843006,
+      "shell_d": 44.0,
+      "side": 53,
+      "neighbour_frac": 0.033
+    },
+    {
+      "id": 141,
+      "group": 41,
+      "row": 593.5514705882352,
+      "col": 2081.716911764706,
+      "plate_d": 18.609705966725112,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.0
+    },
+    {
+      "id": 209,
+      "group": 41,
+      "row": 641.5779816513761,
+      "col": 1293.2477064220184,
+      "plate_d": 11.780624362746345,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.011
+    },
+    {
+      "id": 227,
+      "group": 41,
+      "row": 650.2391304347826,
+      "col": 1252.9565217391305,
+      "plate_d": 7.653039857325812,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.028
+    },
+    {
+      "id": 251,
+      "group": 41,
+      "row": 675.7286432160804,
+      "col": 1217.321608040201,
+      "plate_d": 15.91774699517169,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.019
+    },
+    {
+      "id": 308,
+      "group": 41,
+      "row": 705.8571428571429,
+      "col": 1226.6059113300494,
+      "plate_d": 16.07692842495848,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.021
+    },
+    {
+      "id": 361,
+      "group": 41,
+      "row": 757.2712264150944,
+      "col": 1809.5094339622642,
+      "plate_d": 23.23474912642073,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.057
+    },
+    {
+      "id": 440,
+      "group": 41,
+      "row": 798.3,
+      "col": 1454.6666666666667,
+      "plate_d": 10.704744696916627,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.034
+    },
+    {
+      "id": 528,
+      "group": 41,
+      "row": 873.0867052023121,
+      "col": 1493.2312138728323,
+      "plate_d": 14.841510746523857,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.012
+    },
+    {
+      "id": 649,
+      "group": 41,
+      "row": 995.6457680250784,
+      "col": 1897.0407523510971,
+      "plate_d": 20.153496341094687,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.08
+    },
+    {
+      "id": 663,
+      "group": 41,
+      "row": 1009.7889908256881,
+      "col": 1279.4633027522937,
+      "plate_d": 23.56124872549269,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.0
+    },
+    {
+      "id": 681,
+      "group": 41,
+      "row": 1029.3802281368821,
+      "col": 2182.777566539924,
+      "plate_d": 25.879026267050612,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.042
+    },
+    {
+      "id": 723,
+      "group": 41,
+      "row": 1070.2102040816326,
+      "col": 1986.7020408163266,
+      "plate_d": 24.977737626138797,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.029
+    },
+    {
+      "id": 802,
+      "group": 41,
+      "row": 1147.3163716814158,
+      "col": 1929.404867256637,
+      "plate_d": 23.98967015655475,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.009
+    },
+    {
+      "id": 873,
+      "group": 41,
+      "row": 1209.425389755011,
+      "col": 1898.356347438753,
+      "plate_d": 23.90992587997897,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.0
+    },
+    {
+      "id": 961,
+      "group": 41,
+      "row": 1285.9119638826185,
+      "col": 2059.5056433408577,
+      "plate_d": 23.74963406702674,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.042
+    },
+    {
+      "id": 1163,
+      "group": 41,
+      "row": 1451.0358306188925,
+      "col": 2437.0781758957655,
+      "plate_d": 27.96013377055607,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.015
+    },
+    {
+      "id": 1202,
+      "group": 41,
+      "row": 1487.3904555314534,
+      "col": 2305.524945770065,
+      "plate_d": 24.22732816723524,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.076
+    },
+    {
+      "id": 1238,
+      "group": 41,
+      "row": 1514.302564102564,
+      "col": 1691.423076923077,
+      "plate_d": 22.283703068536735,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.015
+    },
+    {
+      "id": 1257,
+      "group": 41,
+      "row": 1519.029900332226,
+      "col": 2007.9468438538206,
+      "plate_d": 19.576646877473273,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.071
+    },
+    {
+      "id": 1277,
+      "group": 41,
+      "row": 1542.624060150376,
+      "col": 1563.1447368421052,
+      "plate_d": 26.026206750102993,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.095
+    },
+    {
+      "id": 1282,
+      "group": 41,
+      "row": 1543.0818858560795,
+      "col": 2269.1166253101737,
+      "plate_d": 22.65205369339104,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.0
+    },
+    {
+      "id": 1342,
+      "group": 41,
+      "row": 1590.951871657754,
+      "col": 1570.5828877005347,
+      "plate_d": 15.430353037616328,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.132
+    },
+    {
+      "id": 1380,
+      "group": 41,
+      "row": 1629.390670553936,
+      "col": 2310.3090379008745,
+      "plate_d": 20.897874625046462,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.03
+    },
+    {
+      "id": 1483,
+      "group": 41,
+      "row": 1720.1371237458195,
+      "col": 1152.056856187291,
+      "plate_d": 19.511499785403828,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.01
+    },
+    {
+      "id": 1515,
+      "group": 41,
+      "row": 1755.1416083916083,
+      "col": 2001.673076923077,
+      "plate_d": 26.986904594423443,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.027
+    },
+    {
+      "id": 1533,
+      "group": 41,
+      "row": 1768.5264116575593,
+      "col": 2379.5446265938067,
+      "plate_d": 26.438769072322643,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.007
+    },
+    {
+      "id": 1537,
+      "group": 41,
+      "row": 1770.215,
+      "col": 2310.1675,
+      "plate_d": 22.56758334191025,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.033
+    },
+    {
+      "id": 1549,
+      "group": 41,
+      "row": 1781.9382470119522,
+      "col": 1829.7788844621514,
+      "plate_d": 25.281737508665255,
+      "shell_d": 42.0,
+      "side": 51,
+      "neighbour_frac": 0.052
+    },
+    {
+      "id": 1554,
+      "group": 41,
+      "row": 1784.5174672489084,
+      "col": 2264.268558951965,
+      "plate_d": 24.148368712786887,
+      "shell_d": 44.0,
+      "side": 53,
+      "neighbour_frac": 0.013
+    },
+    {
+      "id": 1592,
+      "group": 41,
+      "row": 1823.9072164948454,
+      "col": 1577.9175257731958,
+      "plate_d": 24.849973424463737,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.025
+    },
+    {
+      "id": 1598,
+      "group": 41,
+      "row": 1821.5492957746478,
+      "col": 1165.8356807511736,
+      "plate_d": 16.46815177937675,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.152
+    },
+    {
+      "id": 1609,
+      "group": 41,
+      "row": 1835.6314496314496,
+      "col": 1544.953316953317,
+      "plate_d": 22.764193258431348,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.04
+    },
+    {
+      "id": 1622,
+      "group": 41,
+      "row": 1834.6438356164383,
+      "col": 1816.4657534246576,
+      "plate_d": 16.698486766680407,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.091
+    },
+    {
+      "id": 1648,
+      "group": 41,
+      "row": 1859.1679389312976,
+      "col": 1292.1946564885495,
+      "plate_d": 18.26441241104166,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.111
+    },
+    {
+      "id": 1656,
+      "group": 41,
+      "row": 1866.359342915811,
+      "col": 1659.987679671458,
+      "plate_d": 24.901157769991823,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.006
+    },
+    {
+      "id": 1657,
+      "group": 41,
+      "row": 1867.4745762711864,
+      "col": 1867.177966101695,
+      "plate_d": 21.23032733700184,
+      "shell_d": 40.0,
+      "side": 49,
+      "neighbour_frac": 0.115
+    },
+    {
+      "id": 1658,
+      "group": 41,
+      "row": 1864.6091205211726,
+      "col": 1218.5407166123778,
+      "plate_d": 19.77080019204319,
+      "shell_d": 44.0,
+      "side": 53,
+      "neighbour_frac": 0.048
+    },
+    {
+      "id": 1689,
+      "group": 41,
+      "row": 1897.262996941896,
+      "col": 1780.9969418960245,
+      "plate_d": 20.404639941160397,
+      "shell_d": 38.0,
+      "side": 49,
+      "neighbour_frac": 0.041
+    }
+  ],
+  "chosen_ids": [
+    6,
+    120,
+    497,
+    601,
+    663,
+    802,
+    903,
+    918,
+    1282
+  ],
+  "notes": "Gallery: 40 per group, seed 0, margin 4 px, tol 3 px. IDs index truth.mask_instances output. Codex visually selected 3 per group for visible whole shell, central annotated plate and limited neighbouring material; no detection performance used. Groups: 25=[6,601,918], 33=[120,497,903], 41=[663,802,1282]. Eight rotations; no 180-degree symmetry assumption.",
+  "angles": [
+    0,
+    45,
+    90,
+    135,
+    180,
+    225,
+    270,
+    315
+  ],
+  "scales": [
+    1.0
+  ],
+  "image": "img1.png",
+  "chosen": [
+    {
+      "id": 6,
+      "group": 25,
+      "side": 33,
+      "neighbour_frac": 0.012,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "small shell, closed plate slit visible; lower contrast than larger shells"
+    },
+    {
+      "id": 120,
+      "group": 33,
+      "side": 43,
+      "neighbour_frac": 0.021,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "medium shell, complete ring, neighbours touch only at crop edges"
+    },
+    {
+      "id": 497,
+      "group": 33,
+      "side": 41,
+      "neighbour_frac": 0.002,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "medium shell, elongated plate, high-contrast ring"
+    },
+    {
+      "id": 601,
+      "group": 25,
+      "side": 37,
+      "neighbour_frac": 0.001,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "small shell, plate centred, shell ring complete"
+    },
+    {
+      "id": 663,
+      "group": 41,
+      "side": 49,
+      "neighbour_frac": 0.0,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "large shell, wide wall, no other plates in crop"
+    },
+    {
+      "id": 802,
+      "group": 41,
+      "side": 49,
+      "neighbour_frac": 0.009,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "large shell, clear central slit, complete ring"
+    },
+    {
+      "id": 903,
+      "group": 33,
+      "side": 43,
+      "neighbour_frac": 0.007,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "medium shell, complete bright ring, plate centred"
+    },
+    {
+      "id": 918,
+      "group": 25,
+      "side": 33,
+      "neighbour_frac": 0.012,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "small shell, plate centred, slightly blurred"
+    },
+    {
+      "id": 1282,
+      "group": 41,
+      "side": 49,
+      "neighbour_frac": 0.0,
+      "reason": "meets all three criteria on visual inspection of the gallery (Codex selection); not chosen by detector score",
+      "appearance_note_claude": "large shell, plate slightly tilted, no other plates in crop"
+    }
+  ]
+}
